@@ -1,10 +1,14 @@
 [
   {
     "slug": "Qpski vault",
-    "title": "Qpski vault",
-    "date": "2025-11-21T21:27:19.578Z",
-    "excerpt": "",
-    "hero": "",
-    "topics": []
+    "title": "My Great Post",
+    "date": "2025-01-14",
+    "excerpt": "A short overview of what this post is about.",
+    "hero": "/images/my-hero.jpg",
+    "topics": [
+      "javascript",
+      "obsidian",
+      "tutorials"
+    ]
   }
 ]
