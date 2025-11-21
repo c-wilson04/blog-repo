@@ -1,0 +1,10 @@
+     [
+       {
+         "slug": "learning-to-sculpt-with-data",
+         "title": "Learning to Sculpt with Data",
+         "date": "November 2025",
+         "excerpt": "...",
+         "hero": "/Car/textures/material_0_baseColor.jpeg",
+         "topics": ["three.js", "data", "lighting"]
+       }
+     ]
