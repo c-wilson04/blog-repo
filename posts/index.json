@@ -1,9 +1,9 @@
 [
   {
-    "slug": "Qpski-vault",
-    "title": "My Great Post",
-    "date": "2025-01-14",
-    "excerpt": "A short overview of what this post is about.",
+    "slug": "Code-Cloud-2025",
+    "title": "Code & Cloud 2025",
+    "date": "2025-01-14T00:00:00.000Z",
+    "excerpt": "A deep die into my experience at RVA Tech Code & Cloud 2025",
     "hero": "/images/my-hero.jpg",
     "topics": [
       "javascript",
